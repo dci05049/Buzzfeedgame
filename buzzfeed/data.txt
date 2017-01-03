@@ -1,0 +1,106 @@
+15
+1. What value does the variable x contain 
+qimage1.bmp
+a
+a)5
+b)3
+c)4
+d)1
+2. What is output of this code
+qimage2.bmp
+c
+a)10
+b)5
+c)15
+d)9
+3. What is the exact equation of the circumference of this circle? 
+qimage3.bmp
+d
+a) 5 * 3.14
+b) 5 * 5 * math.pi
+c) 5 * 3.142312345
+d) 5 * math.pi 
+4. if x is 3, what is printed on the screen 
+qimage4.bmp
+a
+a)Hello World! 
+b)Hello 
+c)None 
+d)Hello World
+5. In this for loop, what numbers are printed?
+qimage5.bmp
+a 
+a)1 to 5
+b)2 to 5
+c)2 to 6
+d)1 to 6
+6. If the operation is canceld, which error handling will inform the user 
+qimage6.bmp
+b 
+a)please try again
+b)please try again again
+c)please try try again
+d) please try try again again
+7. Which shape will this code draw in pygame? 
+qimage7.bmp
+b
+a) circle
+b) elipse 
+c) triangle
+d) rectangle
+8. What is the color of this code 
+qimage8.bmp
+c
+a)Yellow
+b)Blue
+c)Red
+d)Green 
+9. Which shape will this code draw in pygame? 
+qimage9.bmp
+d
+a)Elipse
+b)Rectangle
+c)Triangle
+d)Right Triangle
+10. Which will this code print 
+qimage10.bmp
+c
+a)['1' , '2' , '3']
+b)['1' , '2' , '5']
+c)['1' , '2' , '3', '5']
+d)['1' , '2' , '3' , '4']
+11. Which will this code print 
+qimage11.bmp
+b
+a)['1' , '2' , '4']
+b)['1' , '2' , '3' , '4' , '5']
+c)['1' , '2']
+d)['1' , '2' , '3']
+12. What will this code do? 
+qimage12.bmp
+c
+a) Returns the entire remaining contents of the file as a single (potentially large) string.
+b) Returns the next line of the file.  That is all text up to and including the next newline character.
+c) Open the text file "numbers.txt" 
+d) Write on the text file "numbers.txt"
+13. what would this function do? 
+qimage13.bmp
+c
+a) print hello 
+b) print hello and 1234
+c) print 1234
+d) Error 
+14. What would this function print with this parameter? 
+qimage14.bmp
+b
+a) Name: name Age 50
+b) Name: miki Age 50
+c) Name  miki Age 50
+d) Name: miki Age age 
+15. If the age is not given in the parameter instead of "50" what value would it print for age 
+qimage15.bmp
+b
+a) 50 
+b) 35
+c) 35 50
+d) 50 35
